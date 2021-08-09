@@ -1,0 +1,4 @@
+﻿  asjdjasd.c
+D:\代码\shujujiegou\shujujiegou2\asjdjasd.c(26,13): warning C4307: “*”: 有符号整型常量溢出
+D:\代码\shujujiegou\shujujiegou2\asjdjasd.c(30,15): warning C4013: “clock”未定义；假设外部返回 int
+  shujujiegou2.vcxproj -> D:\代码\shujujiegou\shujujiegou2\Debug\shujujiegou2.exe
