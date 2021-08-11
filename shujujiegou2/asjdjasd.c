@@ -38,3 +38,4 @@ int main() {
 	printf("%d ", m);
 	return 0;
 }
+InitList(l);
