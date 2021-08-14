@@ -1,0 +1,5 @@
+﻿  asdjuaskduyhk.cpp
+D:\代码\shujujiegou\shujujiegou4\asdjuaskduyhk.cpp(118,1): warning C4326: “main”的返回类型应为“int”而非“void”
+  sahdas.c
+sahdas.obj : error LNK2005: _main 已经在 asdjuaskduyhk.obj 中定义
+D:\代码\shujujiegou\shujujiegou4\Debug\shujujiegou4.exe : fatal error LNK1169: 找到一个或多个多重定义的符号
